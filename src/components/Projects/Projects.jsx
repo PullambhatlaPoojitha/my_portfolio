@@ -50,8 +50,8 @@ const Services = () => {
         >
           <Card
             emoji={HeartEmoji}
-            heading={"Sentimental Analysis"}
-            detail={"Technologies Used : Microsoft Azure Machine Learning"}
+            heading={"Twitter Sentimental Analysis"}
+            detail={"Technologies Used : Microsoft Azure"}
             github={""}
           />
         </motion.div>
